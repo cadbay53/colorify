@@ -1,0 +1,21 @@
+body {
+    background-color: skyblue;
+}
+
+.circle{
+    border-radius: 50%;
+    border: solid;
+    width: 200px;
+    height: 200px;
+}
+
+.action {
+    margin: 10px auto;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
